@@ -21,7 +21,7 @@
         "portalUrl": "https://www.sertifi.com/portal2",
         "isConnected": true,
         "areUsersManagedInPortal": false,
-        "securityGroups ": ""
+        "securityGroups ": []
       }
     ]
   },
