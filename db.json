@@ -2,26 +2,26 @@
   "portals" : {
     "portals": [
       {
-        "portalName": "Portal 1",
         "portalNumber": "12345678",
+        "portalName": "Portal 1",
         "apiCode": "xxx-xxxx-xxxx-xxxxx",
         "portalUrl": "https://www.sertifi.com/portal1",
         "isConnected": false,
         "areUsersManagedInPortal": false,
-        "groups": [
+        "securityGroups": [
           "Clone Group",
           "Refund Group",
           "All Access"
         ]
       },
       {
-        "portalName": "Portal 2",
         "portalNumber": "87654321",
+        "portalName": "Portal 2",
         "apiCode": "xxx-xxxx-xxxx-xxxxx",
         "portalUrl": "https://www.sertifi.com/portal2",
         "isConnected": true,
         "areUsersManagedInPortal": false,
-        "groups ": ""
+        "securityGroups ": ""
       }
     ]
   },
