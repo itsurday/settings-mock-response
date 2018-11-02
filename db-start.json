@@ -1,0 +1,49 @@
+{
+  "portals" : {
+    "portals": []
+  },
+  "users" : {
+    "users": [
+      {
+        "salesforceUserId": "A065A00000mMT6EQAW",
+        "name": "Yvonne Hanson",
+        "email": "yvonne.hanson@example.com",
+        "username": "yvonne.hanson@example.com",
+        "role": "Admin",
+        "groupname": "Clone Group"
+      },
+      {
+        "salesforceUserId": "B065A00000mMT6EQAW",
+        "name": "Maurizio Meunier",
+        "email": "maurizio.meunier@example.com",
+        "username": "maurizio.meunier@example.com",
+        "role": "Super Admin",
+        "groupname": "All Access"
+      },
+      {
+        "salesforceUserId": "C065A00000mMT6EQAW",
+        "name": "Aquiles Rocha",
+        "email": "aquiles.rocha@example.com",
+        "username": "aquiles.rocha@example.com",
+        "role": "Admin",
+        "groupname": "Clone Group"
+      },
+      {
+        "salesforceUserId": "D065A00000mMT6EQAW",
+        "name": "Carter Bell",
+        "email": "carter.bell@example.com",
+        "username": "carter.bell@example.com",
+        "role": "Admin",
+        "groupname": ""
+      },
+      {
+        "salesforceUserId": "E065A00000mMT6EQAW",
+        "name": "Brett Turner",
+        "email": "brett.turner@example.com",
+        "username": "brett.turner@example.com",
+        "role": "Admin",
+        "groupname": "Refund Group"
+      }
+    ]
+  }
+}
