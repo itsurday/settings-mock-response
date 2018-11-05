@@ -1,6 +1,7 @@
 {
   "portals" : {
-    "non--portals": [
+    "portals": [],
+    "save-portals": [
       {
         "portalNumber": "12345678",
         "portalName": "Portal 1",
