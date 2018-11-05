@@ -1,5 +1,6 @@
 {
   "portals" : {
+    "portalsTest": [],
     "portals": [
       {
         "portalNumber": "12345678",
