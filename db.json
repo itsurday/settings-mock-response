@@ -1,6 +1,8 @@
 {
-  "portals" : {},
-  "portalsDelete" : {
+  "portalsXX" : {
+    "portalsXX": []
+  },
+  "portals" : {
     "portals": [
       {
         "portalNumber": "12345678",
