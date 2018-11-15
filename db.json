@@ -1,9 +1,9 @@
 {
-  "portals" : {
-    "portals": []
+  "portalsAA" : {
+    "portalsAA": []
   },
-  "portalsWW" : {
-    "portalsWWW": [
+  "portals" : {
+    "portals": [
       {
         "portalNumber": "12345678",
         "portalName": "Portal 1",
